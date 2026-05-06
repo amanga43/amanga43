@@ -90,9 +90,10 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: amangachandrasiri43@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/amanga-chandrasiri-9402a62b1/
+- 🐙 GitHub: https://github.com/amanga43
+  
 
 ---
 
